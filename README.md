@@ -1,1 +1,3 @@
-# .github
+# チームばりぐっどくん
+
+https://varygoodkun.net
